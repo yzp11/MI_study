@@ -1,2 +1,2 @@
 # MI_study
- reproduce for ARENA course
+ reproduce for ARENA mechanistic interpretability course.
